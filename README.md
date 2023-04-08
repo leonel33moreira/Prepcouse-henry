@@ -1,2 +1,1 @@
-# Prepcouse-henry
-Este es un un ejemplo de repositorio del modulo2 de prepcouse henrry
+Este  proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
